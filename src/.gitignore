@@ -1,0 +1,4 @@
+*.[oa]
+*.pkg.*
+heimdall/
+heimdall-build/
